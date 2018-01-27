@@ -1,5 +1,9 @@
 https://github.com/keeplearningandtrying/testing-spring-boot-applications/blob/master/script.adoc
 https://github.com/keeplearningandtrying/tdd-with-spring-boot/blob/master/CHEATSHEET.md
+https://spring.io/blog/2016/04/15/testing-improvements-in-spring-boot-1-4
+https://spring.io/blog/2016/08/30/custom-test-slice-with-spring-boot-1-4
+
+https://springframework.guru/unit-testing-spring-mvc-spring-boot-1-4-part-1/
 
 
 
