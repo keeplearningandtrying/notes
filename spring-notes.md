@@ -3,6 +3,8 @@ https://github.com/keeplearningandtrying/tdd-with-spring-boot/blob/master/CHEATS
 https://spring.io/blog/2016/04/15/testing-improvements-in-spring-boot-1-4
 https://spring.io/blog/2016/08/30/custom-test-slice-with-spring-boot-1-4
 
+https://docs.spring.io/spring-boot/docs/current/reference/htmlsingle/#boot-features-understanding-auto-configured-beans - see appendix C and D
+
 https://springframework.guru/unit-testing-spring-mvc-spring-boot-1-4-part-1/
 
 https://github.com/spring-projects/spring-boot/issues/11392
