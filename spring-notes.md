@@ -9,9 +9,8 @@ https://github.com/spring-projects/spring-boot/issues/11392
 
 https://github.com/spring-projects/spring-data-examples - see how spring boot autoconfiguration can be used to test regular spring components
 
-
-
 Favor AsserJ for fluent assertion. See xxxxxx for details
+Favor mockito as mocking framework
 
 How to unit test exception
 
