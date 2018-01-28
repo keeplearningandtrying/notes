@@ -5,8 +5,9 @@ https://spring.io/blog/2016/08/30/custom-test-slice-with-spring-boot-1-4
 
 https://springframework.guru/unit-testing-spring-mvc-spring-boot-1-4-part-1/
 
-
 https://github.com/spring-projects/spring-boot/issues/11392
+
+https://github.com/spring-projects/spring-data-examples - see how spring boot autoconfiguration can be used to test regular spring components
 
 
 
