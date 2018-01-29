@@ -10,3 +10,7 @@ https://zeroturnaround.com/rebellabs/git-commands-and-best-practices-cheat-sheet
 http://files.zeroturnaround.com/pdf/zt_git_cheat_sheet.pdf
 
 https://zeroturnaround.com/rebellabs/spring-framework-annotations-cheat-sheet/
+
+https://www.cheatography.com/danielfc/cheat-sheets/spring-framework-4/
+
+https://springframework.guru/docker-cheat-sheet-for-spring-devlopers/
