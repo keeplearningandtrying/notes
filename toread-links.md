@@ -5,3 +5,6 @@ https://ordina-jworks.github.io/microservices/2017/12/30/Secure-your-architectur
 https://ordina-jworks.github.io/docker/2017/12/15/Docker-basic-networking.html
 
 https://www.javacodegeeks.com/2018/01/bootiful-development-spring-boot-react.html
+
+https://zeroturnaround.com/rebellabs/git-commands-and-best-practices-cheat-sheet/
+http://files.zeroturnaround.com/pdf/zt_git_cheat_sheet.pdf
