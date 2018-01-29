@@ -8,3 +8,5 @@ https://www.javacodegeeks.com/2018/01/bootiful-development-spring-boot-react.htm
 
 https://zeroturnaround.com/rebellabs/git-commands-and-best-practices-cheat-sheet/
 http://files.zeroturnaround.com/pdf/zt_git_cheat_sheet.pdf
+
+https://zeroturnaround.com/rebellabs/spring-framework-annotations-cheat-sheet/
