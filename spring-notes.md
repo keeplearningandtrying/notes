@@ -138,6 +138,8 @@ your own infrastructure easily.
 @ImportAutoConfiguration
 @EnableAutoConfiguration
 @PropertyMapping
+@PropertySource
+@EnableConfigurationProperties
 
 https://stackoverflow.com/questions/43653655/what-is-difference-between-importautoconfiguration-and-import
 You would use @ImportAutoConfiguration when you don't want to enable the default autoconfiguration with @EnableAutoConfiguration. As you probably know, @EnableAutoConfiguration attemps to configure beans that are located on your classpath eg tomcat-embedded.jar. Whereas @ImportAutoConfiguration only runs the configuration classes that you provided in the annotation.
