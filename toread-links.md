@@ -15,3 +15,5 @@
 * http://codehungry.blogspot.com/2017/12/spring-annotation-cheat-sheet.html
 
 * https://github.com/search?l=Java&q=stars%3A%3E1&type=Repositories&utf8=%E2%9C%93
+
+* http://www.devthoughts.pl/2016/08/02/datajpatest-from-spring-boot/
