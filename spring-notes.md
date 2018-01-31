@@ -117,3 +117,10 @@ Security test
 https://docs.spring.io/spring-security/site/docs/current/reference/html/test-method.html
 
 
+/// follow up
+@JdbcTest
+
+
+
+
+
