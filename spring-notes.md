@@ -122,7 +122,8 @@ https://docs.spring.io/spring-security/site/docs/current/reference/html/test-met
 
 https://github.com/spring-projects/spring-boot/blob/master/spring-boot-project/spring-boot-autoconfigure/src/main/java/org/springframework/boot/autoconfigure/jdbc/JdbcTemplateAutoConfiguration.java
 
+https://spring.io/blog/2013/10/30/empowering-your-apps-with-spring-boot-s-property-support
 
-
+https://geowarin.github.io/understanding-spring-boot.html
 
 
