@@ -20,3 +20,5 @@
 * http://www.devthoughts.pl/2016/08/02/datajpatest-from-spring-boot/
 
 * https://medium.com/@harittweets/evolving-your-database-using-spring-boot-and-liquibase-844fcd7931da
+
+* https://springframework.guru/spring-framework-annotations/
