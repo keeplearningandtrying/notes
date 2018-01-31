@@ -120,6 +120,8 @@ https://docs.spring.io/spring-security/site/docs/current/reference/html/test-met
 /// follow up
 @JdbcTest
 
+https://github.com/spring-projects/spring-boot/blob/master/spring-boot-project/spring-boot-autoconfigure/src/main/java/org/springframework/boot/autoconfigure/jdbc/JdbcTemplateAutoConfiguration.java
+
 
 
 
