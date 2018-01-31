@@ -17,3 +17,5 @@
 * https://github.com/search?l=Java&q=stars%3A%3E1&type=Repositories&utf8=%E2%9C%93
 
 * http://www.devthoughts.pl/2016/08/02/datajpatest-from-spring-boot/
+
+* https://medium.com/@harittweets/evolving-your-database-using-spring-boot-and-liquibase-844fcd7931da
