@@ -12,6 +12,7 @@
 * https://zeroturnaround.com/rebellabs/spring-framework-annotations-cheat-sheet/
 * https://www.cheatography.com/danielfc/cheat-sheets/spring-framework-4/
 * https://springframework.guru/docker-cheat-sheet-for-spring-devlopers/
+* https://springframework.guru/spring-framework-annotations/
 * http://codehungry.blogspot.com/2017/12/spring-annotation-cheat-sheet.html
 
 * https://github.com/search?l=Java&q=stars%3A%3E1&type=Repositories&utf8=%E2%9C%93
