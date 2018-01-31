@@ -83,7 +83,9 @@ By default, tests annotated with @WebMvcTest will also auto-configure Spring Sec
 and MockMvc (include support for HtmlUnit WebClient and Selenium WebDriver). For more 
 fine-grained control of MockMVC the @AutoConfigureMockMvc annotation can be used. 
 
-
+@WebMvcTest is the web test slice in Spring Boot 1.4. When it is present, you instruct 
+Spring Boot that a web environment is required and that only the specified controller(s) 
+should be instantiated. 
 
 
 Test repository
@@ -125,5 +127,12 @@ https://github.com/spring-projects/spring-boot/blob/master/spring-boot-project/s
 https://spring.io/blog/2013/10/30/empowering-your-apps-with-spring-boot-s-property-support
 
 https://geowarin.github.io/understanding-spring-boot.html
+
+@import - https://www.mkyong.com/spring3/spring-3-javaconfig-import-example/
+
+
+Spring Boot 1.4 now defines a spring-boot-test-autoconfigure module that provides a collection of 
+test-related auto-configurations. These auto-configurations are composable and can help you crafting 
+your own infrastructure easily. 
 
 
