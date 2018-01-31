@@ -135,4 +135,18 @@ Spring Boot 1.4 now defines a spring-boot-test-autoconfigure module that provide
 test-related auto-configurations. These auto-configurations are composable and can help you crafting 
 your own infrastructure easily. 
 
+@ImportAutoConfiguration
+@EnableAutoConfiguration
+@PropertyMapping
+
+https://stackoverflow.com/questions/43653655/what-is-difference-between-importautoconfiguration-and-import
+You would use @ImportAutoConfiguration when you don't want to enable the default autoconfiguration with @EnableAutoConfiguration. As you probably know, @EnableAutoConfiguration attemps to configure beans that are located on your classpath eg tomcat-embedded.jar. Whereas @ImportAutoConfiguration only runs the configuration classes that you provided in the annotation.
+
+@SpringJUnit4ClassRunner 
+https://github.com/spring-projects/spring-framework/blob/master/spring-test/src/main/java/org/springframework/test/context/junit4/SpringJUnit4ClassRunner.java
+
+https://github.com/spring-projects/spring-boot/tree/master/spring-boot-project/spring-boot-test/src/main/java/org/springframework/boot/test/context
+
+
+
 
