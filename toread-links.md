@@ -25,4 +25,6 @@
 
 * https://github.com/spring-projects/spring-boot/tree/master/spring-boot-samples/spring-boot-sample-logback
 
-http://www.baeldung.com/spring-maven-bom
+* http://www.baeldung.com/spring-maven-bom
+
+* https://github.com/spring-projects/spring-framework/blob/master/spring-test/src/test/java/org/springframework/test/web/client/samples/SampleTests.java
