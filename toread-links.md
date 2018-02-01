@@ -22,3 +22,5 @@
 * https://medium.com/@harittweets/evolving-your-database-using-spring-boot-and-liquibase-844fcd7931da
 
 * https://springframework.guru/spring-framework-annotations/
+
+* https://github.com/spring-projects/spring-boot/tree/master/spring-boot-samples/spring-boot-sample-logback
