@@ -24,3 +24,5 @@
 * https://springframework.guru/spring-framework-annotations/
 
 * https://github.com/spring-projects/spring-boot/tree/master/spring-boot-samples/spring-boot-sample-logback
+
+http://www.baeldung.com/spring-maven-bom
