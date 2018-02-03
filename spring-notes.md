@@ -150,5 +150,11 @@ https://github.com/spring-projects/spring-framework/blob/master/spring-test/src/
 https://github.com/spring-projects/spring-boot/tree/master/spring-boot-project/spring-boot-test/src/main/java/org/springframework/boot/test/context
 
 
+@PropertyMapping - https://docs.spring.io/spring-boot/docs/current/api/org/springframework/boot/test/autoconfigure/properties/PropertyMapping.html
+Example 
+ * https://github.com/keeplearningandtrying/testing-with-spring-boot/blob/master/src/main/java/com/example/external/dealer/DealerService.java
+ * https://github.com/keeplearningandtrying/testing-with-spring-boot/blob/master/src/test/java/com/example/external/dealer/DealerServiceEndpoint.java
+
+
 
 
