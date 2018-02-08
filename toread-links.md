@@ -30,3 +30,5 @@
 * https://github.com/spring-projects/spring-framework/blob/master/spring-test/src/test/java/org/springframework/test/web/client/samples/SampleTests.java
 
 * https://www.infoq.com/articles/Microservices-SpringBoot?utm_source=twitter&utm_medium=link&utm_campaign=calendar
+
+* https://www.ibm.com/developerworks/library/j-whats-new-in-spring-framework-5-theedom/
