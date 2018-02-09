@@ -32,3 +32,5 @@
 * https://www.infoq.com/articles/Microservices-SpringBoot?utm_source=twitter&utm_medium=link&utm_campaign=calendar
 
 * https://www.ibm.com/developerworks/library/j-whats-new-in-spring-framework-5-theedom/
+
+* https://spencer.gibb.us/preso/2017-05-11%20There%20Is%20Only%20Zuul%20-%20OSCON.pdf
