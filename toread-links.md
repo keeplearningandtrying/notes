@@ -38,3 +38,5 @@
 * Create maven custom archetype - https://howtodoinjava.com/maven/maven-custom-archetype/
 * http://www.codeaffine.com/2014/11/05/efficient-creation-eclipse-modules-maven-archetype/
 * https://marosmars.weebly.com/blog/maven-archetype-tutorial
+
+* Vue and Spring boot - https://www.linkedin.com/pulse/vuejs-spring-boot-perfect-combination-simon-martinelli?trk=portfolio_article-card_title
