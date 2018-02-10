@@ -34,3 +34,5 @@
 * https://www.ibm.com/developerworks/library/j-whats-new-in-spring-framework-5-theedom/
 
 * https://spencer.gibb.us/preso/2017-05-11%20There%20Is%20Only%20Zuul%20-%20OSCON.pdf
+
+* Create maven custom archetype - https://howtodoinjava.com/maven/maven-custom-archetype/
