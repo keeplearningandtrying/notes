@@ -5,3 +5,5 @@
 * Understand Functions in JavaScript - https://www.code-morning.com/understand-functions-in-javascript/
 
 * https://www.code-morning.com/js-the-good-and-the-bad/
+
+* Book Learning JavaScript Design Patterns - https://addyosmani.com/resources/essentialjsdesignpatterns/book/#modulepatternjavascript
