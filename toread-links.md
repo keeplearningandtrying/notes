@@ -40,3 +40,4 @@
 * https://marosmars.weebly.com/blog/maven-archetype-tutorial
 
 * Vue and Spring boot - https://www.linkedin.com/pulse/vuejs-spring-boot-perfect-combination-simon-martinelli?trk=portfolio_article-card_title
+* http://svlada.com/jwt-token-authentication-with-spring-boot/
