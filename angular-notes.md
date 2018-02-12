@@ -3,3 +3,4 @@
 * https://blog.codewithdan.com/2017/02/08/10-angular-and-typescript-projects-to-take-you-from-zero-to-hero/
 
 * 50 Angular.js Examples - https://curran.github.io/screencasts/introToAngular/exampleViewer/#/
+* Angular Examples - https://codepen.io/collection/aFsqL/#
