@@ -41,3 +41,13 @@
 
 * Vue and Spring boot - https://www.linkedin.com/pulse/vuejs-spring-boot-perfect-combination-simon-martinelli?trk=portfolio_article-card_title
 * http://svlada.com/jwt-token-authentication-with-spring-boot/
+
+* Spring boot logging - https://examples.javacodegeeks.com/enterprise-java/spring/boot/spring-boot-logging-example/
+
+* Spring Boot 2 Applications and OAuth 2 – Setting up an Authorization Server - https://www.javacodegeeks.com/2018/02/spring-boot-2-applications-oauth-2-setting-authorization-server.html
+
+* Tracing messages in Choreography with Sleuth and Zipkin - http://e4developer.com/2018/02/09/tracing-messages-in-choreography-with-sleuth-and-zipkin/
+
+* CI/CD for SpringBoot applications using Travis-CI - https://sivalabs.in/2018/01/ci-cd-springboot-applications-using-travis-ci/
+* Session Management using Spring Session with JDBC DataStore - https://sivalabs.in/2018/02/session-management-using-spring-session-jdbc-datastore/
+
