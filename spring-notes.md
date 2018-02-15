@@ -155,7 +155,12 @@ Example
  * https://github.com/keeplearningandtrying/testing-with-spring-boot/blob/master/src/main/java/com/example/external/dealer/DealerService.java
  * https://github.com/keeplearningandtrying/testing-with-spring-boot/blob/master/src/test/java/com/example/external/dealer/DealerServiceEndpoint.java
  
- Sample boot application configuration file with log setting - https://github.com/spring-cloud/spring-cloud-skipper/blob/3c48f51c31387d034170aacc611bc316c1aa5a2c/spring-cloud-skipper-server-core/src/main/resources/application.yml
+ * Sample boot application configuration file with log setting - https://github.com/spring-cloud/spring-cloud-skipper/blob/3c48f51c31387d034170aacc611bc316c1aa5a2c/spring-cloud-skipper-server-core/src/main/resources/application.yml
+ 
+ * BrokerRunning - https://github.com/spring-projects/spring-amqp/blob/master/spring-rabbit-junit/src/main/java/org/springframework/amqp/rabbit/junit/BrokerRunning.java
+ 
+ * RabbitTemplateIntegrationTests  - https://github.com/spring-projects/spring-amqp/blob/master/spring-rabbit/src/test/java/org/springframework/amqp/rabbit/core/RabbitTemplateIntegrationTests.java
+ 
 
 
 
