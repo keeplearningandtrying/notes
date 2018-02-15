@@ -51,3 +51,7 @@
 * CI/CD for SpringBoot applications using Travis-CI - https://sivalabs.in/2018/01/ci-cd-springboot-applications-using-travis-ci/
 * Session Management using Spring Session with JDBC DataStore - https://sivalabs.in/2018/02/session-management-using-spring-session-jdbc-datastore/
 
+* https://dzone.com/articles/transaction-synchronization-and-spring-application
+
+* Why injecting by constructor should be preffered? - http://pillopl.github.io/constructor-injection/
+
