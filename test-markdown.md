@@ -55,3 +55,11 @@
 
 
 ## Lists
+
+:memo: [link](https://google.com)
+
+
+## Legends
+
+* :memo: - a text resource — blog/article/tutorial
+* :video_camera: - a video resource 
