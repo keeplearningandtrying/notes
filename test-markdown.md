@@ -8,6 +8,7 @@
 
 <details>
 <summary>View contents</summary>
+  
 * [list 1](#list-1)
 * list 2
 
