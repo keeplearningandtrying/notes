@@ -107,3 +107,5 @@ Content in the first column | Content in the second column
 * [Mastering Markdown](https://guides.github.com/features/mastering-markdown/)
 * [Emoji cheat sheet](https://www.webpagefx.com/tools/emoji-cheat-sheet/)
 * [Deploy your blog to github pages automatically using Hugo and Travis](http://rcoedo.com/post/hugo-static-site-generator/)
+* [Hugo Quick Start](https://gohugo.io/getting-started/quick-start/)
+* [Make Creating Websites Fun Again With Hugo](https://code.tutsplus.com/tutorials/make-creating-websites-fun-again-with-hugo-the-static-website-generator-written-in-go--cms-27319)
