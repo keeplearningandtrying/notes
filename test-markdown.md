@@ -69,3 +69,7 @@
 
 * :memo: - a text resource — blog/article/tutorial
 * :video_camera: - a video resource 
+
+## Reference
+
+* [Emoji cheat sheet](https://www.webpagefx.com/tools/emoji-cheat-sheet/)
