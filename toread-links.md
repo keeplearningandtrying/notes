@@ -55,3 +55,5 @@
 
 * Why injecting by constructor should be preffered? - http://pillopl.github.io/constructor-injection/
 
+* https://shekhargulati.com/2018/02/15/single-sign-on-in-spring-boot-applications-with-spring-security-oauth/
+
