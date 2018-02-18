@@ -85,6 +85,11 @@ Alternatively,
 I think you should use an
 `<addr>` element here instead.
 
+- [x] @mentions, #refs, [links](), **formatting**, and <del>tags</del> supported
+- [x] list syntax required (any unordered or ordered list supported)
+- [x] this is a complete item
+- [ ] this is an incomplete item
+
 ## Legends
 
 * :memo: - a text resource — blog/article/tutorial
