@@ -58,4 +58,5 @@
 * https://shekhargulati.com/2018/02/15/single-sign-on-in-spring-boot-applications-with-spring-security-oauth/
 
 * Spring Framework Hidden Gems - https://mdeinum.wordpress.com/2015/07/01/spring-framework-hidden-gems/
+* Example - https://github.com/spring-projects/spring-data-examples/blob/master/jpa/interceptors/src/main/java/example/springdata/jpa/interceptors/ApplicationConfiguration.java
 
