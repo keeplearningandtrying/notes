@@ -60,4 +60,5 @@
 * Spring Framework Hidden Gems - https://mdeinum.wordpress.com/2015/07/01/spring-framework-hidden-gems/
 * Example - https://github.com/spring-projects/spring-data-examples/blob/master/jpa/interceptors/src/main/java/example/springdata/jpa/interceptors/ApplicationConfiguration.java
 * http://www.baeldung.com/spring-performance-logging
+* https://docs.spring.io/spring-framework/docs/current/javadoc-api/org/springframework/aop/interceptor/package-summary.html
 
