@@ -74,3 +74,5 @@ https://blog.frankel.ch/designing-your-own-spring-boot-starter/2/
 https://blog.frankel.ch/another-post-processor-for-spring-boot/
 
 
+* https://spring.io/blog/2016/08/30/custom-test-slice-with-spring-boot-1-4
+
