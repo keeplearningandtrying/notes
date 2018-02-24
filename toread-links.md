@@ -62,3 +62,15 @@
 * http://www.baeldung.com/spring-performance-logging
 * https://docs.spring.io/spring-framework/docs/current/javadoc-api/org/springframework/aop/interceptor/package-summary.html
 
+* Spring Boot - How auto configuration works? http://www.logicbig.com/tutorials/spring-framework/spring-boot/auto-config-mechanism/
+
+* Create a Custom Auto-Configuration with Spring Boot http://www.baeldung.com/spring-boot-custom-auto-configuration
+
+* https://sivalabs.in/2016/03/how-springboot-autoconfiguration-magic/
+
+* https://blog.frankel.ch/designing-your-own-spring-boot-starter/1/
+https://blog.frankel.ch/designing-your-own-spring-boot-starter/2/
+
+https://blog.frankel.ch/another-post-processor-for-spring-boot/
+
+
