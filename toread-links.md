@@ -80,3 +80,5 @@ https://blog.frankel.ch/another-post-processor-for-spring-boot/
 
 http://www.baeldung.com/spring-boot-custom-starter
 
+http://www.java-allandsundry.com/2017/06/spring-boot-web-slice-test-sample.html
+
