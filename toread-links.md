@@ -75,4 +75,5 @@ https://blog.frankel.ch/another-post-processor-for-spring-boot/
 
 
 * https://spring.io/blog/2016/08/30/custom-test-slice-with-spring-boot-1-4
+@ImportAutoConfiguration is an annotation that lists the auto-configurations that should be included. Alternatively, you can provide the list in META-INF/spring.factories using the fully qualified name of the annotation for the key. 
 
