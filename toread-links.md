@@ -88,3 +88,5 @@ http://www.java-allandsundry.com/2017/06/spring-boot-web-slice-test-sample.html
 * https://spring.io/guides/gs/testing-web/
 * https://stackoverflow.com/questions/39865596/difference-between-using-mockmvc-with-springboottest-and-using-webmvctest
 
+* Test in Spring Boot -http://www.baeldung.com/spring-boot-testing
+
