@@ -5,3 +5,4 @@ https://www.slideshare.net/fehguy/api-design-first-with-swagger
 https://swagger.io/blog/api-design/design-first-or-code-first-api-development/
 https://dzone.com/articles/api-first-approach-and-api-management-with-swagger
 http://generator.swagger.io/api/gen/clients
+http://editor.swagger.io/
