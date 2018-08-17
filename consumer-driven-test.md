@@ -3,3 +3,4 @@
 * https://reflectoring.io/consumer-driven-contract-consumer-spring-cloud-contract/
 
 * https://springframework.guru/defining-spring-cloud-contracts-in-open-api/
+* https://springframework.guru/using-spring-cloud-contract-for-consumer-driven-contracts/
